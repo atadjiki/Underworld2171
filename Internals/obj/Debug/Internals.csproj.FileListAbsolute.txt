@@ -1,0 +1,5 @@
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\Internals\bin\Debug\Internals.dll
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\Internals\bin\Debug\Internals.pdb
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\Internals\obj\Debug\Internals.dll
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\Internals\obj\Debug\Internals.pdb
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\Internals\obj\Debug\Internals.csprojResolveAssemblyReference.cache

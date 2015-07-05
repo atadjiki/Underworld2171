@@ -1,0 +1,8 @@
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\bin\Debug\InternalTests.exe.config
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\bin\Debug\InternalTests.exe
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\bin\Debug\InternalTests.pdb
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\bin\Debug\Internals.dll
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\bin\Debug\Internals.pdb
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\obj\Debug\InternalsTests.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\obj\Debug\InternalTests.exe
+C:\Users\AlleyCat\Documents\Visual Studio 2013\Projects\CityOfRemnantsGUI\InternalTests\obj\Debug\InternalTests.pdb
